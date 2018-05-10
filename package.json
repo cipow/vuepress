@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-tutorial",
+  "version": "1.0.0",
+  "description": "Static Site Generator from Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "Muhammad Afifudin",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
